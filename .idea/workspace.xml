@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="493f6461-80c0-4fbc-b0a7-b1b5da5fcae1" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1laoIAe1HYLtNsgtgcz5BmTWSWQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/example/supermarket_kdxfproject2" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="tasks" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\CodeRepository\IdeaProjects\supermarket_kdxfproject2\src\main\java\com\example\supermarket_kdxfproject2" />
+      <recent name="F:\CodeRepository\IdeaProjects\supermarket_kdxfproject2\src\main\resources\static" />
+      <recent name="C:\Users\LUMING\IdeaProjects\supermarket_kdxfproject2\src\main\java\com\example\supermarket_kdxfproject2" />
+      <recent name="C:\Users\LUMING\IdeaProjects\supermarket_kdxfproject2_1_add_mybatis_plus\src\main\java\com\example\supermarket_kdxfproject2_1_add_mybatis_plus" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.supermarket_kdxfproject2.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\CodeRepository\IdeaProjects\supermarket_kdxfproject2\src\main\resources\static" />
+      <recent name="F:\CodeRepository\IdeaProjects\supermarket_kdxfproject2\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SupermarketKdxfproject2Application">
+    <configuration name="codeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.supermarket_kdxfproject2.common.codeTest" />
+      <module name="supermarket_kdxfproject2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.supermarket_kdxfproject2.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="t" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.supermarket_kdxfproject2_1_add_mybatis_plus.swingTest.t" />
+      <module name="supermarket_kdxfproject2_1_add_mybatis_plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.supermarket_kdxfproject2_1_add_mybatis_plus.swingTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.supermarket_kdxfproject2_1_add_mybatis_plus.xwb.test" />
+      <module name="supermarket_kdxfproject2_1_add_mybatis_plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.supermarket_kdxfproject2_1_add_mybatis_plus.xwb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.supermarket_kdxfproject2_1_add_mybatis_plus.swingTest.test" />
+      <module name="supermarket_kdxfproject2_1_add_mybatis_plus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.supermarket_kdxfproject2_1_add_mybatis_plus.swingTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testUserDao.selectByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="supermarket_kdxfproject2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.supermarket_kdxfproject2.Dao2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.supermarket_kdxfproject2.Dao2" />
+      <option name="MAIN_CLASS_NAME" value="com.example.supermarket_kdxfproject2.Dao2.testUserDao" />
+      <option name="METHOD_NAME" value="selectByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupermarketKdxfproject21AddMybatisPlusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="supermarket_kdxfproject2_1_add_mybatis_plus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.supermarket_kdxfproject2_1_add_mybatis_plus.SupermarketKdxfproject21AddMybatisPlusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SupermarketKdxfproject2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="supermarket_kdxfproject2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.supermarket_kdxfproject2.SupermarketKdxfproject2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.codeTest" />
+        <item itemvalue="JUnit.testUserDao.selectByName" />
+        <item itemvalue="Application.test (1)" />
+        <item itemvalue="Application.t" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.27272728" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="完成" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="493f6461-80c0-4fbc-b0a7-b1b5da5fcae1" name="默认更改列表" comment="" />
+      <created>1607844480101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607844480101</updated>
+      <workItem from="1607844484978" duration="5975000" />
+      <workItem from="1607855073617" duration="42000" />
+      <workItem from="1607855130970" duration="361000" />
+      <workItem from="1607866075666" duration="880000" />
+      <workItem from="1607868369689" duration="2139000" />
+      <workItem from="1607941917007" duration="2002000" />
+      <workItem from="1607943945734" duration="1815000" />
+      <workItem from="1607953230959" duration="2722000" />
+      <workItem from="1607999125704" duration="440000" />
+      <workItem from="1607999849388" duration="2898000" />
+      <workItem from="1608105912441" duration="2458000" />
+      <workItem from="1608122760875" duration="7348000" />
+      <workItem from="1608206645242" duration="1524000" />
+      <workItem from="1608209005343" duration="1169000" />
+      <workItem from="1608212133018" duration="50000" />
+      <workItem from="1608212589070" duration="1787000" />
+      <workItem from="1608219506046" duration="1293000" />
+      <workItem from="1608251850884" duration="2024000" />
+      <workItem from="1608257667130" duration="787000" />
+      <workItem from="1608262146052" duration="2316000" />
+      <workItem from="1608283072850" duration="1356000" />
+      <workItem from="1608297533692" duration="1044000" />
+      <workItem from="1608360723332" duration="60000" />
+      <workItem from="1608366984508" duration="4653000" />
+      <workItem from="1608373254369" duration="4000" />
+      <workItem from="1608388965246" duration="1275000" />
+      <workItem from="1608394266360" duration="2685000" />
+      <workItem from="1608465399366" duration="1965000" />
+      <workItem from="1608469960203" duration="3003000" />
+      <workItem from="1608526614172" duration="1231000" />
+      <workItem from="1608548085932" duration="201000" />
+      <workItem from="1608551964748" duration="6858000" />
+      <workItem from="1608603957745" duration="351000" />
+      <workItem from="1608605012931" duration="964000" />
+      <workItem from="1608608632633" duration="219000" />
+      <workItem from="1608635886865" duration="2363000" />
+      <workItem from="1610024270247" duration="1484000" />
+      <workItem from="1610102560421" duration="22000" />
+      <workItem from="1610167675058" duration="3337000" />
+      <workItem from="1610253736850" duration="1040000" />
+      <workItem from="1610265286822" duration="2350000" />
+      <workItem from="1610275821321" duration="4663000" />
+      <workItem from="1610448401337" duration="616000" />
+      <workItem from="1610456308886" duration="4387000" />
+      <workItem from="1610524211846" duration="2526000" />
+      <workItem from="1610614301168" duration="801000" />
+      <workItem from="1610618090539" duration="1669000" />
+      <workItem from="1610631280998" duration="225000" />
+      <workItem from="1610631519281" duration="39000" />
+      <workItem from="1610631570930" duration="62000" />
+      <workItem from="1610794692084" duration="1349000" />
+      <workItem from="1610933302039" duration="2420000" />
+      <workItem from="1610939235625" duration="879000" />
+      <workItem from="1611039877931" duration="132000" />
+      <workItem from="1611068056800" duration="1106000" />
+      <workItem from="1611105361864" duration="621000" />
+      <workItem from="1611134137850" duration="460000" />
+      <workItem from="1611538426304" duration="1219000" />
+      <workItem from="1613491019288" duration="73000" />
+      <workItem from="1613560562161" duration="200000" />
+      <workItem from="1614138476380" duration="303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="710" y="274" key="#CloudFoundry" timestamp="1610939387405">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="710" y="274" key="#CloudFoundry/0.0.1536.824@0.0.1536.824" timestamp="1610939387405" />
+    <state x="361" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607943993485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1607943993485" />
+    <state x="1245" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1611068326188">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="996" y="183" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1608209441518" />
+    <state x="1245" y="231" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610168119255" />
+    <state x="1245" y="231" key="#com.intellij.ide.util.MemberChooser/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1611068326188" />
+    <state x="1165" y="316" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1607954042805">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1165" y="316" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607954042805" />
+    <state x="499" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1610933334250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1610933334250" />
+    <state x="552" y="181" key="#项目结构" timestamp="1607855398304">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#项目结构/0.0.1920.1040@0.0.1920.1040" timestamp="1607855398304" />
+    <state x="586" y="230" key="FileChooserDialogImpl" timestamp="1611039952125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="230" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611039952125" />
+    <state x="732" y="290" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610025425173" />
+    <state width="873" height="241" key="GridCell.Tab.0.bottom" timestamp="1613560761813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1248" height="119" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608467864096" />
+    <state width="873" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613560761813" />
+    <state width="873" height="241" key="GridCell.Tab.0.center" timestamp="1613560761813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1248" height="119" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608467864096" />
+    <state width="873" height="241" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613560761813" />
+    <state width="873" height="241" key="GridCell.Tab.0.left" timestamp="1613560761813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1248" height="119" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608467864096" />
+    <state width="873" height="241" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613560761813" />
+    <state width="873" height="241" key="GridCell.Tab.0.right" timestamp="1613560761813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1248" height="119" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608467864096" />
+    <state width="873" height="241" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613560761813" />
+    <state width="873" height="241" key="GridCell.Tab.1.bottom" timestamp="1613560761813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1248" height="119" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608467864097" />
+    <state width="873" height="241" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613560761813" />
+    <state width="873" height="241" key="GridCell.Tab.1.center" timestamp="1613560761813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1248" height="119" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608467864097" />
+    <state width="873" height="241" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613560761813" />
+    <state width="873" height="241" key="GridCell.Tab.1.left" timestamp="1613560761813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1248" height="119" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608467864097" />
+    <state width="873" height="241" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613560761813" />
+    <state width="873" height="241" key="GridCell.Tab.1.right" timestamp="1613560761813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1248" height="119" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608467864097" />
+    <state width="873" height="241" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613560761813" />
+    <state width="1343" height="288" key="GridCell.Tab.2.bottom" timestamp="1610171433198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607851322014" />
+    <state width="1343" height="288" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610171433198" />
+    <state width="1343" height="288" key="GridCell.Tab.2.center" timestamp="1610171433198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1607851322014" />
+    <state width="1343" height="288" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610171433198" />
+    <state width="1343" height="288" key="GridCell.Tab.2.left" timestamp="1610171433198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1607851322014" />
+    <state width="1343" height="288" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610171433198" />
+    <state width="1343" height="288" key="GridCell.Tab.2.right" timestamp="1610171433198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1607851322014" />
+    <state width="1343" height="288" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610171433198" />
+    <state x="305" y="0" key="SettingsEditor" timestamp="1611039954423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="305" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1611039954423" />
+    <state x="381" y="154" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610631419312" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1610631316270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610631316270" />
+    <state x="540" y="206" width="1251" height="674" key="new project wizard" timestamp="1611543250023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="266" y="57" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1611039953802" />
+    <state x="540" y="206" width="1251" height="674" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1611543250023" />
+    <state x="590" y="56" key="refactoring.ChangeSignatureDialog" timestamp="1608125438306">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="472" y="44" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1607844730964" />
+    <state x="590" y="56" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608125438306" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1607849829366">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1607849829366" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup" timestamp="1608127533813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607846738849" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608127533813" />
+  </component>
+</project>
